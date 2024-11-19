@@ -1,6 +1,6 @@
 # Stock and Trade Data Serialization
 
-![Python Tests](https://github.com/{voldy12}/{epai-s18}/actions/workflows/python-tests.yml/badge.svg)
+![Python Tests](https://github.com/voldy12/epai-s18/actions/workflows/python-tests.yml/badge.svg)
 
 ## 🚀 Overview
 
@@ -15,11 +15,12 @@ This project demonstrates advanced JSON serialization and deserialization techni
 - Support for complex data types (Decimal, DateTime)
 - Automated testing with GitHub Actions
 
-## 🏗️ Project Structure 
-├── assignment.py # Main implementation
-├── test_assignment.py # Test suite
-├── .github/workflows # GitHub Actions configuration
-└── README.md # This file
+## 🏗️ Project Structure     
+
+- `assignment.py` - Main implementation
+- `test_assignment.py` - Test suite  
+- `.github/workflows` - GitHub Actions configuration
+- `README.md` - This file
 
 ## 📋 Prerequisites         
 
